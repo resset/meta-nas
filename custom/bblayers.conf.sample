@@ -9,6 +9,7 @@ BBLAYERS ?= " \
   /home/nas/poky/meta \
   /home/nas/poky/meta-poky \
   /home/nas/poky/meta-yocto-bsp \
+  /home/nas/poky/meta-openembedded/meta-oe \
   /home/nas/poky/meta-sunxi \
   /home/nas/poky/meta-nas \
   "

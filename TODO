@@ -1,9 +1,13 @@
 Things that need to be added, enabled or fixed:
 
-- networking
-- opkg
-- RTC
++ opkg
++ lsusb
 - DT review
-- lsusb & friends
-- WiFi drivers
+- add heartbeat (https://forum.armbian.com/topic/6265-neo-2-blue-led-not-flashing/?tab=comments#comment-55809)
+- ethernet
+- NAS dock USB hub
 - SATA disk
+- RTC
+- logread
+- WiFi drivers
+- tune compiler settings

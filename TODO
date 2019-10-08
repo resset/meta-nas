@@ -1,0 +1,9 @@
+Things that need to be added, enabled or fixed:
+
+- networking
+- opkg
+- RTC
+- DT review
+- lsusb & friends
+- WiFi drivers
+- SATA disk

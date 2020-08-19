@@ -4,6 +4,8 @@ Things that need to be added, enabled or fixed:
 + lsusb
 - DT review
 - add heartbeat (https://forum.armbian.com/topic/6265-neo-2-blue-led-not-flashing/?tab=comments#comment-55809)
+- dm_mod
++ cyptsetup
 - ethernet
 - NAS dock USB hub
 - SATA disk

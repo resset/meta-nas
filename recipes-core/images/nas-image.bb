@@ -8,6 +8,7 @@ IMAGE_INSTALL = "\
     rng-tools \
     ${CORE_IMAGE_EXTRA_INSTALL} \
     usbutils \
+    cryptsetup \
     "
 
 inherit core-image
